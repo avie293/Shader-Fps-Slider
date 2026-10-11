@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Laju Bingkai Maks. (Shader)",
+	"shader-fps-slider.option.limit.tooltip": "Laju bingkai maksimum saat paket shader Iris aktif. Tanpa shader, Laju Bingkai Maks. biasa yang berlaku.\n\nMati: selalu gunakan Laju Bingkai Maks. biasa.",
+	"shader-fps-slider.option.off": "Mati"
+}

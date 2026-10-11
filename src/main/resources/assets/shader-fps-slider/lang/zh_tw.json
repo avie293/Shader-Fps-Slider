@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "光影最大 FPS",
+	"shader-fps-slider.option.limit.tooltip": "啟用 Iris 光影包時使用的最大 FPS。未啟用光影時使用一般的最大 FPS。\n\n關閉：一律使用一般的最大 FPS。",
+	"shader-fps-slider.option.off": "關閉"
+}

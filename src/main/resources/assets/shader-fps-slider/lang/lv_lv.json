@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Maks. kadri sekundē (ēnotāji)",
+	"shader-fps-slider.option.limit.tooltip": "Maksimālais kadru skaits sekundē, kamēr ir aktīva Iris ēnotāju pakotne. Bez ēnotājiem darbojas parastais iestatījums.\n\nIzslēgts: vienmēr izmantot parasto maks. kadru skaitu sekundē.",
+	"shader-fps-slider.option.off": "Izslēgts"
+}

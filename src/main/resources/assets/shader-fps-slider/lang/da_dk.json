@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Højeste framerate (shaders)",
+	"shader-fps-slider.option.limit.tooltip": "Højeste framerate, mens en Iris-shaderpakke er aktiv. Uden shaders gælder den normale højeste framerate.\n\nFra: brug altid den normale højeste framerate.",
+	"shader-fps-slider.option.off": "Fra"
+}

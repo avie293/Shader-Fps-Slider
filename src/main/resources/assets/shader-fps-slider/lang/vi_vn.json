@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "FPS tối đa (shader)",
+	"shader-fps-slider.option.limit.tooltip": "FPS tối đa được dùng khi một gói shader của Iris đang bật. Khi không dùng shader, FPS tối đa thông thường sẽ được áp dụng.\n\nTắt: luôn dùng FPS tối đa thông thường.",
+	"shader-fps-slider.option.off": "Tắt"
+}

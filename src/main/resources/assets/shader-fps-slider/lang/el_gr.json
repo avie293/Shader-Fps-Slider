@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Μέγιστος Ρυθμός Καρέ (shaders)",
+	"shader-fps-slider.option.limit.tooltip": "Μέγιστος ρυθμός καρέ όσο είναι ενεργό ένα πακέτο shaders του Iris. Χωρίς shaders ισχύει ο κανονικός μέγιστος ρυθμός καρέ.\n\nΑνενεργό: χρησιμοποίησε πάντα τον κανονικό μέγιστο ρυθμό καρέ.",
+	"shader-fps-slider.option.off": "Ανενεργό"
+}

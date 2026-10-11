@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Shader-Max. Bildrate",
+	"shader-fps-slider.option.limit.tooltip": "Maximale Bildrate, solange ein Iris-Shaderpack aktiv ist. Ohne Shader gilt die normale max. Bildrate.\n\nAus: immer die normale max. Bildrate verwenden.",
+	"shader-fps-slider.option.off": "Aus"
+}

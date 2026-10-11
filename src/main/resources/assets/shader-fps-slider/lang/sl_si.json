@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Maksimalen FPS (senčilniki)",
+	"shader-fps-slider.option.limit.tooltip": "Največja hitrost sličic, ko je aktiven paket senčilnikov Iris. Brez senčilnikov velja običajni maksimalni FPS.\n\nIzklopljeno: vedno uporabi običajni maksimalni FPS.",
+	"shader-fps-slider.option.off": "Izklopljeno"
+}

@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Maximális képráta (shaderek)",
+	"shader-fps-slider.option.limit.tooltip": "Maximális képráta, amíg egy Iris shadercsomag aktív. Shaderek nélkül a normál maximális képráta érvényes.\n\nKi: mindig a normál maximális képrátát használja.",
+	"shader-fps-slider.option.off": "Ki"
+}

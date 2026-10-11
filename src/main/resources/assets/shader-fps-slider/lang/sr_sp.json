@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Максималан FPS (шејдери)",
+	"shader-fps-slider.option.limit.tooltip": "Максималан број сличица у секунди док је активан Iris пакет шејдера. Без шејдера важи уобичајени максималан FPS.\n\nИскључено: увек користи уобичајени максималан FPS.",
+	"shader-fps-slider.option.off": "Искључено"
+}

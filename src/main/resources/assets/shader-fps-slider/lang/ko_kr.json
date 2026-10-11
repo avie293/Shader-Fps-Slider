@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "셰이더 최대 프레임률",
+	"shader-fps-slider.option.limit.tooltip": "Iris 셰이더 팩이 활성화되어 있을 때 사용할 최대 프레임률입니다. 셰이더가 없으면 일반 최대 프레임률이 적용됩니다.\n\n꺼짐: 항상 일반 최대 프레임률을 사용합니다.",
+	"shader-fps-slider.option.off": "꺼짐"
+}

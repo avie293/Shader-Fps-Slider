@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "cc.avie.shaderfpsslider.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"FramerateLimitTrackerMixin",
+		"IrisConfigMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

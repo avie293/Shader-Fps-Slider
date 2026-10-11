@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "קצב פריימים מרבי עם שיידרים",
+	"shader-fps-slider.option.limit.tooltip": "קצב הפריימים המרבי בזמן שחבילת שיידרים של Iris פעילה. ללא שיידרים חל קצב הפריימים המרבי הרגיל.\n\nכבוי: תמיד להשתמש בקצב הפריימים המרבי הרגיל.",
+	"shader-fps-slider.option.off": "כבוי"
+}

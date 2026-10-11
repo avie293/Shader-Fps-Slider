@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Shader Max Framerate",
+	"shader-fps-slider.option.limit.tooltip": "Max framerate used while an Iris shader pack is active. Without shaders, the normal Max Framerate applies.\n\nOff: always use the normal Max Framerate.",
+	"shader-fps-slider.option.off": "Off"
+}

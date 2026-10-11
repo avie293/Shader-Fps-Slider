@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "حداکثر فرکانس فریم شیدر",
+	"shader-fps-slider.option.limit.tooltip": "حداکثر فرکانس فریم هنگامی که یک بسته شیدر Iris فعال است. بدون شیدر، حداکثر فرکانس فریم معمولی اعمال می‌شود.\n\nخاموش: همیشه از حداکثر فرکانس فریم معمولی استفاده کن.",
+	"shader-fps-slider.option.off": "خاموش"
+}

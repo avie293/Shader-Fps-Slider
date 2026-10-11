@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Didž. kadrų dažnis (šešėliavimas)",
+	"shader-fps-slider.option.limit.tooltip": "Didžiausias kadrų dažnis, kai aktyvus Iris šešėliavimo paketas. Be šešėliavimo galioja įprastas didžiausias kadrų dažnis.\n\nIšj.: visada naudoti įprastą didžiausią kadrų dažnį.",
+	"shader-fps-slider.option.off": "Išj."
+}

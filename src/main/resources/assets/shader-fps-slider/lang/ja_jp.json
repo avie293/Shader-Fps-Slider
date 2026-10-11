@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "シェーダー時の最大フレームレート",
+	"shader-fps-slider.option.limit.tooltip": "Iris のシェーダーパックが有効なときに使用する最大フレームレートです。シェーダーを使っていないときは通常の最大フレームレートが適用されます。\n\nオフ: 常に通常の最大フレームレートを使用します。",
+	"shader-fps-slider.option.off": "オフ"
+}

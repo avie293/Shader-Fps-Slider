@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Maksimalni FPS (shaderi)",
+	"shader-fps-slider.option.limit.tooltip": "Maksimalni FPS dok je aktivan Iris shader paket. Bez shadera vrijedi uobičajeni maksimalni FPS.\n\nIsključeno: uvijek koristi uobičajeni maksimalni FPS.",
+	"shader-fps-slider.option.off": "Isključeno"
+}

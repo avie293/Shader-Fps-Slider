@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "FPS max (shaders)",
+	"shader-fps-slider.option.limit.tooltip": "Fréquence d'images maximale utilisée lorsqu'un pack de shaders Iris est actif. Sans shaders, le réglage FPS max normal s'applique.\n\nDésactivé : toujours utiliser le réglage FPS max normal.",
+	"shader-fps-slider.option.off": "Désactivé"
+}

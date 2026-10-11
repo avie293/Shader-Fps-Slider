@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Limit FPS (shadery)",
+	"shader-fps-slider.option.limit.tooltip": "Maximální snímková frekvence při aktivním balíčku shaderů Iris. Bez shaderů platí běžný Limit FPS.\n\nVypnuto: vždy používat běžný Limit FPS.",
+	"shader-fps-slider.option.off": "Vypnuto"
+}

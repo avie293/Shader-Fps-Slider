@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Gölgelendirici En Fazla Kare Hızı",
+	"shader-fps-slider.option.limit.tooltip": "Bir Iris gölgelendirici paketi etkinken kullanılan en fazla kare hızı. Gölgelendirici yokken normal En Fazla Kare Hızı geçerlidir.\n\nKapalı: her zaman normal En Fazla Kare Hızını kullan.",
+	"shader-fps-slider.option.off": "Kapalı"
+}

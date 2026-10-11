@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "FPS màxims (shaders)",
+	"shader-fps-slider.option.limit.tooltip": "FPS màxims mentre un paquet de shaders d'Iris està actiu. Sense shaders s'aplica el límit normal de FPS màxims.\n\nDesactivat: utilitza sempre el límit normal de FPS màxims.",
+	"shader-fps-slider.option.off": "Desactivat"
+}

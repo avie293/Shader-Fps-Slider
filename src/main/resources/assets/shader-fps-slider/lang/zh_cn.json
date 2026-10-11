@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "光影最大帧率",
+	"shader-fps-slider.option.limit.tooltip": "启用 Iris 光影包时使用的最大帧率。未启用光影时使用普通的最大帧率。\n\n关：始终使用普通的最大帧率。",
+	"shader-fps-slider.option.off": "关"
+}

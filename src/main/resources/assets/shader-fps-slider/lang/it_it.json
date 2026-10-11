@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Limite frequenza (shader)",
+	"shader-fps-slider.option.limit.tooltip": "Frequenza massima dei fotogrammi usata quando è attivo un pacchetto shader di Iris. Senza shader si applica il normale limite di frequenza.\n\nDisattivato: usa sempre il normale limite di frequenza.",
+	"shader-fps-slider.option.off": "Disattivato"
+}

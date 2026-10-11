@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Varjostimien maksimikuvataajuus",
+	"shader-fps-slider.option.limit.tooltip": "Suurin kuvataajuus, kun Iris-varjostinpaketti on käytössä. Ilman varjostimia käytetään normaalia maksimikuvataajuutta.\n\nPois: käytä aina normaalia maksimikuvataajuutta.",
+	"shader-fps-slider.option.off": "Pois"
+}

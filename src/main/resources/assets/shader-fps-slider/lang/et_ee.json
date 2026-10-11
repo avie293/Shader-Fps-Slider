@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Varjutajate maksimaalne kaadrisagedus",
+	"shader-fps-slider.option.limit.tooltip": "Suurim kaadrisagedus, kui Irise varjutajapakk on aktiivne. Ilma varjutajateta kehtib tavaline maksimaalne kaadrisagedus.\n\nVäljas: kasuta alati tavalist maksimaalset kaadrisagedust.",
+	"shader-fps-slider.option.off": "Väljas"
+}

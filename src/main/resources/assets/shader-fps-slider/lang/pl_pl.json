@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Maksymalne FPS (shadery)",
+	"shader-fps-slider.option.limit.tooltip": "Maksymalna liczba klatek na sekundę, gdy aktywny jest pakiet shaderów Iris. Bez shaderów obowiązuje zwykłe ustawienie Maksymalne FPS.\n\nWył.: zawsze używaj zwykłego ustawienia Maksymalne FPS.",
+	"shader-fps-slider.option.off": "Wył."
+}

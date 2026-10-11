@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "Maks. bildefrekvens (shadere)",
+	"shader-fps-slider.option.limit.tooltip": "Høyeste bildefrekvens mens en Iris-shaderpakke er aktiv. Uten shadere gjelder den vanlige maks. bildefrekvensen.\n\nAv: bruk alltid den vanlige maks. bildefrekvensen.",
+	"shader-fps-slider.option.off": "Av"
+}

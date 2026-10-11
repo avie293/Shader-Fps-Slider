@@ -1,0 +1,5 @@
+{
+	"shader-fps-slider.option.limit": "أقصى عدد إطارات مع الظلال",
+	"shader-fps-slider.option.limit.tooltip": "أقصى عدد من الإطارات في الثانية عند تفعيل حزمة ظلال Iris. بدون الظلال يُطبَّق الحد الأقصى المعتاد.\n\nإيقاف: استخدم دائمًا الحد الأقصى المعتاد لعدد الإطارات.",
+	"shader-fps-slider.option.off": "إيقاف"
+}
